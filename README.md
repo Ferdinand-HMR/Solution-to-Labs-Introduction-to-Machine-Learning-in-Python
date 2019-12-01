@@ -2,6 +2,7 @@
 EL-GY 6123: Introduction to Machine Learning (Graduate) by Prof. Sundeep Rangan. The link for the course can be found at: 
 https://github.com/akhilwadhwa22/introml
 
+Here are my solutions for the following Labs:
 
 Lab 3: Multiple Linear Regression for Robot Calibration
 
