@@ -1,5 +1,5 @@
 ## Introduction-to-Machine-Learning-in-Python
-EL-GY 6123: Introduction to Machine Learning (Graduate) by Prof. Sundeep Rangan. The link for the course can be found at: 
+# EL-GY 6123: Introduction to Machine Learning (Graduate) by Prof. Sundeep Rangan. The link for the course can be found at: 
 https://github.com/akhilwadhwa22/introml
 
 Here are my solutions for the following Labs:
