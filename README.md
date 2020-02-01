@@ -1,5 +1,5 @@
 # Introduction-to-Machine-Learning-in-Python
-## EL-GY 6123: Introduction to Machine Learning (Graduate) by Prof. Sundeep Rangan. 
+## EL-GY 6123: Introduction to Machine Learning (Graduate) by Prof. Sundeep Rangan at NYU Tandon School of Engineering. 
 
 
 Here are my solutions for the following Labs:
